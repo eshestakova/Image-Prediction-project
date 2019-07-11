@@ -1,4 +1,7 @@
 # Image-Prediction-project
-It's about my project which can predict a part of the image.
-There is a presentation about it and description.
-And python code.
+It can predict a part of the image.
+
+Included:
+~ presentation
+~ description
+~ python code.
